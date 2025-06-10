@@ -56,7 +56,7 @@
 
 
 ## 📫 Connect with Me
-- **mohanraj.jegan@gmail.com**
+:computer: **mohanraj.jegan@gmail.com**
   
-- <a href="https://linkedin.com/in/jegan mohanraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jegan mohanraj" height="30" width="40" /></a>
+:calling: <a href="https://linkedin.com/in/jegan mohanraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jegan mohanraj" height="30" width="40" /></a>
 
