@@ -15,6 +15,7 @@
 
 ## 🚀 Key Responsibilties
 ### *FE modeling of closures*
+
 - De-Penetrating the Closure model with appropriate thickness ratio with verifying and assigning property name and MAT values as per BOM.
 - Generating connections for closures such as Bolts, Mastics, Weatherstrip, spots, Latch, Gas Strut,Bumps Stop and Wedge connections needed for analysis as per the input directions received.
 - To create NAPO points with proper name & ID as per the guidelines and compare against legacy to find the differences.
@@ -26,8 +27,7 @@
 ---
 
 ### *BIP Integration*
-- Working on *New SUV and Transit models* for structural and durability simulations.
-- Focused on high-quality mesh generation and result interpretation using industry-leading CAE tools.
+
 - Inputs required for the integration process are collected and report to Lead in case any missing details in the inputs.
 - Receive modeling completed FE files and start integration process for the respective assembly.
 - De-Penetrating the BIP model with appropriate thickness ratio with verifying and assigning property name and MAT values as per BOM.
@@ -42,6 +42,7 @@
   ---
 
 ### *Acoustic Cavity*
+
 - Working on *New SUV and Transit models* for structural and durability simulations.
 - Focused on high-quality mesh generation and result interpretation using industry-leading CAE tools.
 - Creating 3D seats by using cushion CAD and it is positioned to enclose the seat frame.
